@@ -5,6 +5,7 @@
 #include <cstdlib>
 #include <ctime>
 
+
 //board array
 const int row = 3;
 const int col = 3;
